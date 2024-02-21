@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Julieta Pérez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Web**
+- 🔭 🔭 I was doing university projects on **Web**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **SQL**
 
-- 🤝 I’m looking for help with **Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Julicss?tab=repositories](https://github.com/Julicss?tab=repositories)
 
-- 💬 Ask me about **HTML5,SQL**
+- 💬 Ask me about **HTML5,SQL,PYTHON**
 
 - 📫 How to reach me **julietaperez762@gmail.com**
 
