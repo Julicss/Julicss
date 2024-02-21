@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **SQL**
+- 👯 I’m looking to collaborate on **Python** y **SQL** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Julicss?tab=repositories](https://github.com/Julicss?tab=repositories)
 
