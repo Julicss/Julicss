@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julieta Pérez</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 
 - 🔭 🔭 I was doing university projects on **Web**
 
