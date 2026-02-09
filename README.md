@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julieta Pérez</h1>
+
 SQL & Data Analysis Enthusiast from Argentina 🇦🇷
+
 
 👩‍💻 About Me
 
@@ -13,10 +15,12 @@ SQL & Data Analysis Enthusiast from Argentina 🇦🇷
 
 💬 Ask me about SQL, Databases, Queries, Data Analysis
 
+
 📂 Projects
 
 👉 https://github.com/Julicss?tab=repositories
 - 📄 Know about my experiences [www.linkedin.com/in/julieta-m-perez](www.linkedin.com/in/julieta-m-perez)
+  
 
 - 🧠 Sample SQL Code
 
@@ -47,6 +51,7 @@ ON c.customer_id = o.customer_id
 GROUP BY c.full_name
 ORDER BY total_spent DESC;
 
+
 🛠️ Skills
 
 SQL (queries, joins, subqueries)
@@ -59,9 +64,11 @@ Excel (analysis & reports)
 
 Git & GitHub
 
+
 📫 Contact
 
 📧 Email: julietaperez.it.art@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/julieta-m-perez
+
 
