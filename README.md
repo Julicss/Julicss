@@ -11,9 +11,9 @@ SQL & Database Enthusiast from Argentina 🇦🇷
 
 🎓 Studying for a Bachelor’s degree in Systems Analysis (UBA)
 
-👯 Open to collaborate on SQL & database-related projects
+👯 Open to collaborate on SQL & database-related projects (Junior Level)
 
-💬 Ask me about SQL, Databases, Queries, Data Analysis
+💬 Ask me about SQL, Databases, Queries
 
 
 📂 Projects
@@ -70,6 +70,7 @@ Git & GitHub
 📧 Email: julietaperez.it.art@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/julieta-m-perez
+
 
 
 
