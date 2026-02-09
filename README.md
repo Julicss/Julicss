@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julieta Pérez</h1>
 
-SQL & Data Analysis Enthusiast from Argentina 🇦🇷
+SQL & Database Enthusiast from Argentina 🇦🇷
 
 
 👩‍💻 About Me
@@ -70,5 +70,6 @@ Git & GitHub
 📧 Email: julietaperez.it.art@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/julieta-m-perez
+
 
 
